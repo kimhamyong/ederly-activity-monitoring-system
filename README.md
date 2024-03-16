@@ -1,3 +1,4 @@
-# Elderly Activity Monitoring System  using Pressure Sensor-based Foot Mat
+# Elderly Activity Monitoring System
 
-Elderly Activity Monitoring System  using Pressure Sensor-based Foot Mat
+##Project Title
+Elderly Activity Monitoring System using Pressure Sensor-based Foot Mat
