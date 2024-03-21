@@ -19,5 +19,5 @@ This project proposes an elderly activity monitoring system that utilizes pressu
 ```
 -Arduino version: Arduino Uno
 -Arduino IDE version: 2.1.0
--Server development environment: Visual Studio 2022 (v143)
+-Bluetooth Module: HC-06
 ```
